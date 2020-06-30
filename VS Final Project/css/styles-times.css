@@ -1,0 +1,73 @@
+#header {
+    height: 150px;
+    width: 100%;
+    background-color: #91bd3a;
+}
+
+
+#shoulders {
+    height: 600px;
+    width: 100%;
+    background-color: #FFFFF0;
+}
+
+#legs {
+    height: 150px;
+    width: 100%;
+    background-color: #91bd3a;
+    margin-top: 75px;
+    text-align: center;
+    font-size: 20px;
+}                          /*----------------HASHTAGS---------------*/
+
+.logo {
+    padding: 10px 20px;
+    margin-top: 15px;
+    
+}
+
+.logo:hover {
+    color: red;
+}                        /*----------------LOGO'S---------------*/
+
+
+body {
+    margin: 0;
+}
+
+table {
+    margin-bottom: 25px;
+}
+
+table:hover {
+    transform: scale(1.14);
+}
+
+.open-t {
+    margin-top: 0;
+}                          /*----------------H2-HEADER---------------*/
+
+.unordered {
+    float: left;
+    font-size: 15px;
+    line-height: 40px;
+    margin-left: 70px;
+}
+
+.ordered {
+    float: right;
+    margin-right: 70px;
+    font-size: 15px;
+    line-height: 40px;
+}                           /*----------------LIST'S---------------*/
+
+.drag-L {
+    height: 150px;
+    width: 175px;
+}
+
+.drag-R {
+    height: 150px;
+    width: 175px;
+    float: right;
+}                       /*----------------DRAGON'S---------------*/
